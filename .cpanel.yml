@@ -1,3 +1,4 @@
+---
 deployment:
   tasks:
     - export DEPLOYPATH=/home/chrisbr1/public_html/resume/wp-content/themes/Total-child-01
