@@ -6,7 +6,6 @@ function total_child_enqueue_parent_theme_style() {
 add_action( 'wp_enqueue_scripts', 'total_child_enqueue_parent_theme_style' );
 
 // ADDING THIS COMMENT TO TEST GIT
-// This is another comment to test how well git is working.  I'm trying to get the hang of it.
 
 // Custom function to add text below logo
 function custom_header_text() { ?>
